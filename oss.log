@@ -1,0 +1,1997 @@
+OSS: Generating process with PID 1 at putting it in queue 1 at time 0:273,873,264
+OSS: Dispatching process with PID 1 from queue 1 at time 0:273,878,029
+OSS: Total time this dispatch was 4,765 nanoseconds
+OSS: Receiving that process with PID 1 ran for 2,000,000 nanoseconds
+OSS: Process 1 is blocked and did not use its entire timeslice
+
+OSS: Generating process with PID 2 at putting it in queue 1 at time 1:581,304,638
+OSS: Dispatching process with PID 2 from queue 1 at time 1:581,313,317
+OSS: Total time this dispatch was 8,679 nanoseconds
+OSS: Receiving that process with PID 2 ran for 400,000 nanoseconds
+OSS: Process 2 is blocked and did not use its entire timeslice
+
+OSS: Generating process with PID 3 at putting it in queue 1 at time 2:973,216,034
+OSS: Dispatching process with PID 3 from queue 1 at time 2:973,216,611
+OSS: Total time this dispatch was 577 nanoseconds
+OSS: Receiving that process with PID 3 ran for 129,870 nanoseconds
+OSS: Process 3 terminated
+
+OSS: Removing process 2 from the blocked queue
+OSS: Dispatching process with PID 2 from queue 1 at time 3:581,314,994
+OSS: Total time this dispatch was 170 nanoseconds
+OSS: Receiving that process with PID 2 ran for 2,857,142 nanoseconds
+OSS: Process 2 is blocked and did not use its entire timeslice
+
+OSS: Generating process with PID 3 at putting it in queue 1 at time 3:736,368,785
+OSS: Dispatching process with PID 3 from queue 1 at time 3:736,375,652
+OSS: Total time this dispatch was 6,867 nanoseconds
+OSS: Receiving that process with PID 3 ran for 10,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 2
+
+OSS: Dispatching process with PID 3 from queue 2 at time 3:746,380,645
+OSS: Total time this dispatch was 4,993 nanoseconds
+OSS: Receiving that process with PID 3 ran for 40,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 3
+
+OSS: Dispatching process with PID 3 from queue 3 at time 3:786,383,314
+OSS: Total time this dispatch was 2,669 nanoseconds
+OSS: Receiving that process with PID 3 ran for 1,012,658 nanoseconds
+OSS: Process 3 is blocked and did not use its entire timeslice
+
+OSS: Removing process 1 from the blocked queue
+OSS: Dispatching process with PID 1 from queue 1 at time 4:273,886,704
+OSS: Total time this dispatch was 2,549 nanoseconds
+OSS: Receiving that process with PID 1 ran for 20,000,000 nanoseconds
+OSS: Process 1 used its entire timeslice and is not blocked
+OSS: Putting process with PID 1 into queue 2
+
+OSS: Dispatching process with PID 1 from queue 2 at time 4:293,896,479
+OSS: Total time this dispatch was 9,775 nanoseconds
+OSS: Receiving that process with PID 1 ran for 40,000,000 nanoseconds
+OSS: Process 1 used its entire timeslice and is not blocked
+OSS: Putting process with PID 1 into queue 3
+
+OSS: Dispatching process with PID 1 from queue 3 at time 4:333,901,856
+OSS: Total time this dispatch was 5,377 nanoseconds
+OSS: Receiving that process with PID 1 ran for 80,000,000 nanoseconds
+OSS: Process 1 used its entire timeslice and is not blocked
+OSS: Putting process with PID 1 into queue 3
+
+OSS: Dispatching process with PID 1 from queue 3 at time 4:413,903,194
+OSS: Total time this dispatch was 1,338 nanoseconds
+OSS: Receiving that process with PID 1 ran for 80,000,000 nanoseconds
+OSS: Process 1 used its entire timeslice and is not blocked
+OSS: Putting process with PID 1 into queue 3
+
+OSS: Dispatching process with PID 1 from queue 3 at time 4:493,904,854
+OSS: Total time this dispatch was 1,660 nanoseconds
+OSS: Receiving that process with PID 1 ran for 80,000,000 nanoseconds
+OSS: Process 1 used its entire timeslice and is not blocked
+OSS: Putting process with PID 1 into queue 3
+
+OSS: Dispatching process with PID 1 from queue 3 at time 4:573,912,351
+OSS: Total time this dispatch was 7,497 nanoseconds
+OSS: Receiving that process with PID 1 ran for 10,000,000 nanoseconds
+OSS: Process 1 is blocked and did not use its entire timeslice
+
+OSS: Removing process 1 from the blocked queue
+OSS: Dispatching process with PID 1 from queue 1 at time 5:573,929,174
+OSS: Total time this dispatch was 6,991 nanoseconds
+OSS: Receiving that process with PID 1 ran for 344,827 nanoseconds
+OSS: Process 1 is blocked and did not use its entire timeslice
+
+OSS: Generating process with PID 4 at putting it in queue 1 at time 5:575,303,196
+OSS: Dispatching process with PID 4 from queue 1 at time 5:575,304,806
+OSS: Total time this dispatch was 1,610 nanoseconds
+OSS: Receiving that process with PID 4 ran for 227,272 nanoseconds
+OSS: Process 4 is blocked and did not use its entire timeslice
+
+OSS: Removing process 4 from the blocked queue
+OSS: Dispatching process with PID 4 from queue 1 at time 5:575,539,697
+OSS: Total time this dispatch was 7,619 nanoseconds
+OSS: Receiving that process with PID 4 ran for 1,818,181 nanoseconds
+OSS: Process 4 is blocked and did not use its entire timeslice
+
+OSS: Removing process 3 from the blocked queue
+OSS: Dispatching process with PID 3 from queue 1 at time 5:786,399,429
+OSS: Total time this dispatch was 8,055 nanoseconds
+OSS: Receiving that process with PID 3 ran for 444,444 nanoseconds
+OSS: Process 3 is blocked and did not use its entire timeslice
+
+OSS: Removing process 3 from the blocked queue
+OSS: Dispatching process with PID 3 from queue 1 at time 5:786,852,616
+OSS: Total time this dispatch was 8,743 nanoseconds
+OSS: Receiving that process with PID 3 ran for 2,000,000 nanoseconds
+OSS: Process 3 terminated
+
+OSS: Generating process with PID 3 at putting it in queue 1 at time 6:93,844,783
+OSS: Dispatching process with PID 3 from queue 1 at time 6:93,849,976
+OSS: Total time this dispatch was 5,193 nanoseconds
+OSS: Receiving that process with PID 3 ran for 10,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 2
+
+OSS: Dispatching process with PID 3 from queue 2 at time 6:103,854,777
+OSS: Total time this dispatch was 4,801 nanoseconds
+OSS: Receiving that process with PID 3 ran for 416,666 nanoseconds
+OSS: Process 3 is blocked and did not use its entire timeslice
+
+OSS: Removing process 3 from the blocked queue
+OSS: Dispatching process with PID 3 from queue 1 at time 7:103,868,730
+OSS: Total time this dispatch was 7,198 nanoseconds
+OSS: Receiving that process with PID 3 ran for 327,868 nanoseconds
+OSS: Process 3 terminated
+
+OSS: Generating process with PID 3 at putting it in queue 1 at time 7:228,251,372
+OSS: Dispatching process with PID 3 from queue 1 at time 7:228,259,901
+OSS: Total time this dispatch was 8,529 nanoseconds
+OSS: Receiving that process with PID 3 ran for 10,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 2
+
+OSS: Dispatching process with PID 3 from queue 2 at time 7:238,263,853
+OSS: Total time this dispatch was 3,952 nanoseconds
+OSS: Receiving that process with PID 3 ran for 40,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 3
+
+OSS: Generating process with PID 5 at putting it in queue 1 at time 7:278,263,853
+OSS: Dispatching process with PID 5 from queue 1 at time 7:278,271,441
+OSS: Total time this dispatch was 7,588 nanoseconds
+OSS: Receiving that process with PID 5 ran for 10,000,000 nanoseconds
+OSS: Process 5 used its entire timeslice and is not blocked
+OSS: Putting process with PID 5 into queue 2
+
+OSS: Dispatching process with PID 5 from queue 2 at time 7:288,278,811
+OSS: Total time this dispatch was 7,370 nanoseconds
+OSS: Receiving that process with PID 5 ran for 40,000,000 nanoseconds
+OSS: Process 5 used its entire timeslice and is not blocked
+OSS: Putting process with PID 5 into queue 3
+
+OSS: Dispatching process with PID 3 from queue 3 at time 7:328,281,830
+OSS: Total time this dispatch was 3,019 nanoseconds
+OSS: Receiving that process with PID 3 ran for 1,012,658 nanoseconds
+OSS: Process 3 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 5 from queue 3 at time 7:329,299,849
+OSS: Total time this dispatch was 5,361 nanoseconds
+OSS: Receiving that process with PID 5 ran for 80,000,000 nanoseconds
+OSS: Process 5 used its entire timeslice and is not blocked
+OSS: Putting process with PID 5 into queue 3
+
+OSS: Generating process with PID 6 at putting it in queue 1 at time 7:409,299,849
+OSS: Dispatching process with PID 6 from queue 1 at time 7:409,301,439
+OSS: Total time this dispatch was 1,590 nanoseconds
+OSS: Receiving that process with PID 6 ran for 303,030 nanoseconds
+OSS: Process 6 is blocked and did not use its entire timeslice
+
+OSS: Removing process 6 from the blocked queue
+OSS: Dispatching process with PID 6 from queue 1 at time 7:409,611,301
+OSS: Total time this dispatch was 6,832 nanoseconds
+OSS: Receiving that process with PID 6 ran for 20,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 2
+
+OSS: Dispatching process with PID 6 from queue 2 at time 7:429,618,699
+OSS: Total time this dispatch was 7,398 nanoseconds
+OSS: Receiving that process with PID 6 ran for 40,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 3
+
+OSS: Dispatching process with PID 5 from queue 3 at time 7:469,626,074
+OSS: Total time this dispatch was 7,375 nanoseconds
+OSS: Receiving that process with PID 5 ran for 4,705,882 nanoseconds
+OSS: Process 5 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 6 from queue 3 at time 7:474,339,350
+OSS: Total time this dispatch was 7,394 nanoseconds
+OSS: Receiving that process with PID 6 ran for 80,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 3
+
+OSS: Dispatching process with PID 6 from queue 3 at time 7:554,347,330
+OSS: Total time this dispatch was 7,980 nanoseconds
+OSS: Receiving that process with PID 6 ran for 80,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 3
+
+OSS: Dispatching process with PID 6 from queue 3 at time 7:634,348,080
+OSS: Total time this dispatch was 750 nanoseconds
+OSS: Receiving that process with PID 6 ran for 80,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 3
+
+OSS: Dispatching process with PID 6 from queue 3 at time 7:714,348,468
+OSS: Total time this dispatch was 388 nanoseconds
+OSS: Receiving that process with PID 6 ran for 80,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 3
+
+OSS: Dispatching process with PID 6 from queue 3 at time 7:794,355,730
+OSS: Total time this dispatch was 7,262 nanoseconds
+OSS: Receiving that process with PID 6 ran for 80,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 3
+
+OSS: Dispatching process with PID 6 from queue 3 at time 7:874,364,795
+OSS: Total time this dispatch was 9,065 nanoseconds
+OSS: Receiving that process with PID 6 ran for 80,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 3
+
+OSS: Dispatching process with PID 6 from queue 3 at time 7:954,365,468
+OSS: Total time this dispatch was 673 nanoseconds
+OSS: Receiving that process with PID 6 ran for 80,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 3
+
+OSS: Dispatching process with PID 6 from queue 3 at time 8:34,373,754
+OSS: Total time this dispatch was 8,286 nanoseconds
+OSS: Receiving that process with PID 6 ran for 1,095,890 nanoseconds
+OSS: Process 6 is blocked and did not use its entire timeslice
+
+OSS: Removing process 6 from the blocked queue
+OSS: Dispatching process with PID 6 from queue 1 at time 8:35,471,786
+OSS: Total time this dispatch was 2,142 nanoseconds
+OSS: Receiving that process with PID 6 ran for 740,740 nanoseconds
+OSS: Process 6 is blocked and did not use its entire timeslice
+
+OSS: Generating process with PID 7 at putting it in queue 1 at time 8:253,550,842
+OSS: Dispatching process with PID 7 from queue 1 at time 8:253,551,311
+OSS: Total time this dispatch was 469 nanoseconds
+OSS: Receiving that process with PID 7 ran for 10,000,000 nanoseconds
+OSS: Process 7 used its entire timeslice and is not blocked
+OSS: Putting process with PID 7 into queue 2
+
+OSS: Dispatching process with PID 7 from queue 2 at time 8:263,561,230
+OSS: Total time this dispatch was 9,919 nanoseconds
+OSS: Receiving that process with PID 7 ran for 40,000,000 nanoseconds
+OSS: Process 7 used its entire timeslice and is not blocked
+OSS: Putting process with PID 7 into queue 3
+
+OSS: Dispatching process with PID 7 from queue 3 at time 8:303,564,254
+OSS: Total time this dispatch was 3,024 nanoseconds
+OSS: Receiving that process with PID 7 ran for 80,000,000 nanoseconds
+OSS: Process 7 used its entire timeslice and is not blocked
+OSS: Putting process with PID 7 into queue 3
+
+OSS: Dispatching process with PID 7 from queue 3 at time 8:383,568,819
+OSS: Total time this dispatch was 4,565 nanoseconds
+OSS: Receiving that process with PID 7 ran for 80,000,000 nanoseconds
+OSS: Process 7 used its entire timeslice and is not blocked
+OSS: Putting process with PID 7 into queue 3
+
+OSS: Dispatching process with PID 7 from queue 3 at time 8:463,571,248
+OSS: Total time this dispatch was 2,429 nanoseconds
+OSS: Receiving that process with PID 7 ran for 80,000,000 nanoseconds
+OSS: Process 7 used its entire timeslice and is not blocked
+OSS: Putting process with PID 7 into queue 3
+
+OSS: Removing process 5 from the blocked queue
+OSS: Dispatching process with PID 5 from queue 1 at time 8:543,578,967
+OSS: Total time this dispatch was 7,719 nanoseconds
+OSS: Receiving that process with PID 5 ran for 20,000,000 nanoseconds
+OSS: Process 5 used its entire timeslice and is not blocked
+OSS: Putting process with PID 5 into queue 2
+
+OSS: Dispatching process with PID 5 from queue 2 at time 8:563,579,635
+OSS: Total time this dispatch was 668 nanoseconds
+OSS: Receiving that process with PID 5 ran for 754,716 nanoseconds
+OSS: Process 5 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 7 from queue 3 at time 8:564,342,770
+OSS: Total time this dispatch was 8,419 nanoseconds
+OSS: Receiving that process with PID 7 ran for 80,000,000 nanoseconds
+OSS: Process 7 used its entire timeslice and is not blocked
+OSS: Putting process with PID 7 into queue 3
+
+OSS: Removing process 1 from the blocked queue
+OSS: Removing process 2 from the blocked queue
+OSS: Dispatching process with PID 1 from queue 1 at time 8:644,351,295
+OSS: Total time this dispatch was 8,525 nanoseconds
+OSS: Receiving that process with PID 1 ran for 20,000,000 nanoseconds
+OSS: Process 1 used its entire timeslice and is not blocked
+OSS: Putting process with PID 1 into queue 2
+
+OSS: Dispatching process with PID 2 from queue 1 at time 8:664,361,247
+OSS: Total time this dispatch was 9,952 nanoseconds
+OSS: Receiving that process with PID 2 ran for 224,719 nanoseconds
+OSS: Process 2 is blocked and did not use its entire timeslice
+
+OSS: Removing process 2 from the blocked queue
+OSS: Dispatching process with PID 2 from queue 1 at time 8:664,587,782
+OSS: Total time this dispatch was 1,816 nanoseconds
+OSS: Receiving that process with PID 2 ran for 20,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 2
+
+OSS: Dispatching process with PID 1 from queue 2 at time 8:684,593,881
+OSS: Total time this dispatch was 6,099 nanoseconds
+OSS: Receiving that process with PID 1 ran for 40,000,000 nanoseconds
+OSS: Process 1 used its entire timeslice and is not blocked
+OSS: Putting process with PID 1 into queue 3
+
+OSS: Dispatching process with PID 2 from queue 2 at time 8:724,598,417
+OSS: Total time this dispatch was 4,536 nanoseconds
+OSS: Receiving that process with PID 2 ran for 40,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Dispatching process with PID 7 from queue 3 at time 8:764,606,544
+OSS: Total time this dispatch was 8,127 nanoseconds
+OSS: Receiving that process with PID 7 ran for 80,000,000 nanoseconds
+OSS: Process 7 used its entire timeslice and is not blocked
+OSS: Putting process with PID 7 into queue 3
+
+OSS: Dispatching process with PID 1 from queue 3 at time 8:844,610,597
+OSS: Total time this dispatch was 4,053 nanoseconds
+OSS: Receiving that process with PID 1 ran for 80,000,000 nanoseconds
+OSS: Process 1 used its entire timeslice and is not blocked
+OSS: Putting process with PID 1 into queue 3
+
+OSS: Dispatching process with PID 2 from queue 3 at time 8:924,618,392
+OSS: Total time this dispatch was 7,795 nanoseconds
+OSS: Receiving that process with PID 2 ran for 80,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Dispatching process with PID 7 from queue 3 at time 9:4,620,658
+OSS: Total time this dispatch was 2,266 nanoseconds
+OSS: Receiving that process with PID 7 ran for 80,000,000 nanoseconds
+OSS: Process 7 used its entire timeslice and is not blocked
+OSS: Putting process with PID 7 into queue 3
+
+OSS: Generating process with PID 8 at putting it in queue 1 at time 9:84,620,658
+OSS: Dispatching process with PID 8 from queue 1 at time 9:84,629,938
+OSS: Total time this dispatch was 9,280 nanoseconds
+OSS: Receiving that process with PID 8 ran for 163,934 nanoseconds
+OSS: Process 8 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 1 from queue 3 at time 9:84,797,495
+OSS: Total time this dispatch was 3,623 nanoseconds
+OSS: Receiving that process with PID 1 ran for 1,176,470 nanoseconds
+OSS: Process 1 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 2 from queue 3 at time 9:85,981,294
+OSS: Total time this dispatch was 7,329 nanoseconds
+OSS: Receiving that process with PID 2 ran for 80,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Dispatching process with PID 7 from queue 3 at time 9:165,981,819
+OSS: Total time this dispatch was 525 nanoseconds
+OSS: Receiving that process with PID 7 ran for 80,000,000 nanoseconds
+OSS: Process 7 used its entire timeslice and is not blocked
+OSS: Putting process with PID 7 into queue 3
+
+OSS: Dispatching process with PID 2 from queue 3 at time 9:245,984,904
+OSS: Total time this dispatch was 3,085 nanoseconds
+OSS: Receiving that process with PID 2 ran for 1,111,111 nanoseconds
+OSS: Process 2 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 7 from queue 3 at time 9:247,100,786
+OSS: Total time this dispatch was 4,771 nanoseconds
+OSS: Receiving that process with PID 7 ran for 80,000,000 nanoseconds
+OSS: Process 7 used its entire timeslice and is not blocked
+OSS: Putting process with PID 7 into queue 3
+
+OSS: Dispatching process with PID 7 from queue 3 at time 9:327,106,142
+OSS: Total time this dispatch was 5,356 nanoseconds
+OSS: Receiving that process with PID 7 ran for 2,580,645 nanoseconds
+OSS: Process 7 is blocked and did not use its entire timeslice
+
+OSS: Removing process 3 from the blocked queue
+OSS: Dispatching process with PID 3 from queue 1 at time 9:329,689,538
+OSS: Total time this dispatch was 2,751 nanoseconds
+OSS: Receiving that process with PID 3 ran for 444,444 nanoseconds
+OSS: Process 3 is blocked and did not use its entire timeslice
+
+OSS: Removing process 3 from the blocked queue
+OSS: Dispatching process with PID 3 from queue 1 at time 9:330,142,671
+OSS: Total time this dispatch was 8,689 nanoseconds
+OSS: Receiving that process with PID 3 ran for 2,000,000 nanoseconds
+OSS: Process 3 terminated
+
+OSS: Removing process 4 from the blocked queue
+OSS: Dispatching process with PID 4 from queue 1 at time 9:575,542,780
+OSS: Total time this dispatch was 1,472 nanoseconds
+OSS: Receiving that process with PID 4 ran for 833,333 nanoseconds
+OSS: Process 4 is blocked and did not use its entire timeslice
+
+OSS: Removing process 7 from the blocked queue
+OSS: Dispatching process with PID 7 from queue 1 at time 10:327,116,816
+OSS: Total time this dispatch was 8,262 nanoseconds
+OSS: Receiving that process with PID 7 ran for 363,636 nanoseconds
+OSS: Process 7 is blocked and did not use its entire timeslice
+
+OSS: Removing process 6 from the blocked queue
+OSS: Dispatching process with PID 6 from queue 1 at time 11:35,488,980
+OSS: Total time this dispatch was 8,110 nanoseconds
+OSS: Receiving that process with PID 6 ran for 20,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 2
+
+OSS: Generating process with PID 3 at putting it in queue 1 at time 11:55,488,980
+OSS: Dispatching process with PID 3 from queue 1 at time 11:55,493,395
+OSS: Total time this dispatch was 4,415 nanoseconds
+OSS: Receiving that process with PID 3 ran for 10,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 2
+
+OSS: Dispatching process with PID 6 from queue 2 at time 11:65,493,935
+OSS: Total time this dispatch was 540 nanoseconds
+OSS: Receiving that process with PID 6 ran for 40,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 3
+
+OSS: Dispatching process with PID 3 from queue 2 at time 11:105,499,890
+OSS: Total time this dispatch was 5,955 nanoseconds
+OSS: Receiving that process with PID 3 ran for 459,770 nanoseconds
+OSS: Process 3 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 6 from queue 3 at time 11:105,963,252
+OSS: Total time this dispatch was 3,592 nanoseconds
+OSS: Receiving that process with PID 6 ran for 80,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 3
+
+OSS: Dispatching process with PID 6 from queue 3 at time 11:185,973,125
+OSS: Total time this dispatch was 9,873 nanoseconds
+OSS: Receiving that process with PID 6 ran for 3,636,363 nanoseconds
+OSS: Process 6 is blocked and did not use its entire timeslice
+
+OSS: Removing process 3 from the blocked queue
+OSS: Dispatching process with PID 3 from queue 1 at time 12:105,506,206
+OSS: Total time this dispatch was 4,789 nanoseconds
+OSS: Receiving that process with PID 3 ran for 20,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 2
+
+OSS: Dispatching process with PID 3 from queue 2 at time 12:125,509,755
+OSS: Total time this dispatch was 3,549 nanoseconds
+OSS: Receiving that process with PID 3 ran for 909,090 nanoseconds
+OSS: Process 3 is blocked and did not use its entire timeslice
+
+OSS: Removing process 5 from the blocked queue
+OSS: Dispatching process with PID 5 from queue 1 at time 12:563,596,334
+OSS: Total time this dispatch was 9,851 nanoseconds
+OSS: Receiving that process with PID 5 ran for 20,000,000 nanoseconds
+OSS: Process 5 used its entire timeslice and is not blocked
+OSS: Putting process with PID 5 into queue 2
+
+OSS: Dispatching process with PID 5 from queue 2 at time 12:583,598,453
+OSS: Total time this dispatch was 2,119 nanoseconds
+OSS: Receiving that process with PID 5 ran for 40,000,000 nanoseconds
+OSS: Process 5 used its entire timeslice and is not blocked
+OSS: Putting process with PID 5 into queue 3
+
+OSS: Dispatching process with PID 5 from queue 3 at time 12:623,608,078
+OSS: Total time this dispatch was 9,625 nanoseconds
+OSS: Receiving that process with PID 5 ran for 80,000,000 nanoseconds
+OSS: Process 5 used its entire timeslice and is not blocked
+OSS: Putting process with PID 5 into queue 3
+
+OSS: Dispatching process with PID 5 from queue 3 at time 12:703,614,844
+OSS: Total time this dispatch was 6,766 nanoseconds
+OSS: Receiving that process with PID 5 ran for 80,000,000 nanoseconds
+OSS: Process 5 used its entire timeslice and is not blocked
+OSS: Putting process with PID 5 into queue 3
+
+OSS: Generating process with PID 9 at putting it in queue 1 at time 12:783,614,844
+OSS: Dispatching process with PID 9 from queue 1 at time 12:783,615,128
+OSS: Total time this dispatch was 284 nanoseconds
+OSS: Receiving that process with PID 9 ran for 10,000,000 nanoseconds
+OSS: Process 9 used its entire timeslice and is not blocked
+OSS: Putting process with PID 9 into queue 2
+
+OSS: Dispatching process with PID 9 from queue 2 at time 12:793,617,238
+OSS: Total time this dispatch was 2,110 nanoseconds
+OSS: Receiving that process with PID 9 ran for 2,666,666 nanoseconds
+OSS: Process 9 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 5 from queue 3 at time 12:796,291,999
+OSS: Total time this dispatch was 8,095 nanoseconds
+OSS: Receiving that process with PID 5 ran for 8,000,000 nanoseconds
+OSS: Process 5 is blocked and did not use its entire timeslice
+
+OSS: Removing process 1 from the blocked queue
+OSS: Dispatching process with PID 1 from queue 1 at time 13:84,800,934
+OSS: Total time this dispatch was 1,779 nanoseconds
+OSS: Receiving that process with PID 1 ran for 20,000,000 nanoseconds
+OSS: Process 1 used its entire timeslice and is not blocked
+OSS: Putting process with PID 1 into queue 2
+
+OSS: Dispatching process with PID 1 from queue 2 at time 13:104,807,561
+OSS: Total time this dispatch was 6,627 nanoseconds
+OSS: Receiving that process with PID 1 ran for 563,380 nanoseconds
+OSS: Process 1 is blocked and did not use its entire timeslice
+
+OSS: Removing process 2 from the blocked queue
+OSS: Dispatching process with PID 2 from queue 1 at time 13:246,000,936
+OSS: Total time this dispatch was 9,862 nanoseconds
+OSS: Receiving that process with PID 2 ran for 20,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 2
+
+OSS: Dispatching process with PID 2 from queue 2 at time 13:266,004,071
+OSS: Total time this dispatch was 3,135 nanoseconds
+OSS: Receiving that process with PID 2 ran for 40,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Dispatching process with PID 2 from queue 3 at time 13:306,007,573
+OSS: Total time this dispatch was 3,502 nanoseconds
+OSS: Receiving that process with PID 2 ran for 80,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Dispatching process with PID 2 from queue 3 at time 13:386,017,062
+OSS: Total time this dispatch was 9,489 nanoseconds
+OSS: Receiving that process with PID 2 ran for 80,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Dispatching process with PID 2 from queue 3 at time 13:466,022,020
+OSS: Total time this dispatch was 4,958 nanoseconds
+OSS: Receiving that process with PID 2 ran for 1,052,631 nanoseconds
+OSS: Process 2 is blocked and did not use its entire timeslice
+
+OSS: Generating process with PID 10 at putting it in queue 1 at time 13:994,957,264
+OSS: Dispatching process with PID 10 from queue 1 at time 13:994,963,326
+OSS: Total time this dispatch was 6,062 nanoseconds
+OSS: Receiving that process with PID 10 ran for 2,000,000 nanoseconds
+OSS: Process 10 terminated
+
+OSS: Removing process 8 from the blocked queue
+OSS: Dispatching process with PID 8 from queue 1 at time 14:84,635,115
+OSS: Total time this dispatch was 3,701 nanoseconds
+OSS: Receiving that process with PID 8 ran for 20,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 2
+
+OSS: Dispatching process with PID 8 from queue 2 at time 14:104,641,878
+OSS: Total time this dispatch was 6,763 nanoseconds
+OSS: Receiving that process with PID 8 ran for 40,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Removing process 3 from the blocked queue
+OSS: Dispatching process with PID 3 from queue 1 at time 14:144,651,114
+OSS: Total time this dispatch was 9,236 nanoseconds
+OSS: Receiving that process with PID 3 ran for 20,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 2
+
+OSS: Dispatching process with PID 3 from queue 2 at time 14:164,660,204
+OSS: Total time this dispatch was 9,090 nanoseconds
+OSS: Receiving that process with PID 3 ran for 40,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 3 at time 14:204,664,825
+OSS: Total time this dispatch was 4,621 nanoseconds
+OSS: Receiving that process with PID 8 ran for 80,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Generating process with PID 10 at putting it in queue 1 at time 14:284,664,825
+OSS: Dispatching process with PID 10 from queue 1 at time 14:284,674,402
+OSS: Total time this dispatch was 9,577 nanoseconds
+OSS: Receiving that process with PID 10 ran for 175,438 nanoseconds
+OSS: Process 10 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 3 from queue 3 at time 14:284,852,731
+OSS: Total time this dispatch was 2,891 nanoseconds
+OSS: Receiving that process with PID 3 ran for 80,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 3
+
+OSS: Removing process 7 from the blocked queue
+OSS: Dispatching process with PID 7 from queue 1 at time 14:364,860,881
+OSS: Total time this dispatch was 8,150 nanoseconds
+OSS: Receiving that process with PID 7 ran for 20,000,000 nanoseconds
+OSS: Process 7 used its entire timeslice and is not blocked
+OSS: Putting process with PID 7 into queue 2
+
+OSS: Dispatching process with PID 7 from queue 2 at time 14:384,865,460
+OSS: Total time this dispatch was 4,579 nanoseconds
+OSS: Receiving that process with PID 7 ran for 4,444,444 nanoseconds
+OSS: Process 7 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 8 from queue 3 at time 14:389,315,176
+OSS: Total time this dispatch was 5,272 nanoseconds
+OSS: Receiving that process with PID 8 ran for 2,105,263 nanoseconds
+OSS: Process 8 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 3 from queue 3 at time 14:391,422,333
+OSS: Total time this dispatch was 1,894 nanoseconds
+OSS: Receiving that process with PID 3 ran for 80,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 3
+
+OSS: Dispatching process with PID 3 from queue 3 at time 14:471,428,637
+OSS: Total time this dispatch was 6,304 nanoseconds
+OSS: Receiving that process with PID 3 ran for 80,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 3
+
+OSS: Dispatching process with PID 3 from queue 3 at time 14:551,432,273
+OSS: Total time this dispatch was 3,636 nanoseconds
+OSS: Receiving that process with PID 3 ran for 80,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 3
+
+OSS: Removing process 4 from the blocked queue
+OSS: Dispatching process with PID 4 from queue 1 at time 14:631,434,149
+OSS: Total time this dispatch was 1,876 nanoseconds
+OSS: Receiving that process with PID 4 ran for 20,000,000 nanoseconds
+OSS: Process 4 used its entire timeslice and is not blocked
+OSS: Putting process with PID 4 into queue 2
+
+OSS: Dispatching process with PID 4 from queue 2 at time 14:651,435,072
+OSS: Total time this dispatch was 923 nanoseconds
+OSS: Receiving that process with PID 4 ran for 40,000,000 nanoseconds
+OSS: Process 4 used its entire timeslice and is not blocked
+OSS: Putting process with PID 4 into queue 3
+
+OSS: Dispatching process with PID 3 from queue 3 at time 14:691,439,446
+OSS: Total time this dispatch was 4,374 nanoseconds
+OSS: Receiving that process with PID 3 ran for 80,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 3
+
+OSS: Dispatching process with PID 4 from queue 3 at time 14:771,439,954
+OSS: Total time this dispatch was 508 nanoseconds
+OSS: Receiving that process with PID 4 ran for 1,081,081 nanoseconds
+OSS: Process 4 is blocked and did not use its entire timeslice
+
+OSS: Removing process 4 from the blocked queue
+OSS: Dispatching process with PID 4 from queue 1 at time 14:772,522,439
+OSS: Total time this dispatch was 1,404 nanoseconds
+OSS: Receiving that process with PID 4 ran for 377,358 nanoseconds
+OSS: Process 4 terminated
+
+OSS: Dispatching process with PID 3 from queue 3 at time 14:772,904,124
+OSS: Total time this dispatch was 4,327 nanoseconds
+OSS: Receiving that process with PID 3 ran for 80,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 3
+
+OSS: Dispatching process with PID 3 from queue 3 at time 14:852,906,015
+OSS: Total time this dispatch was 1,891 nanoseconds
+OSS: Receiving that process with PID 3 ran for 80,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 3
+
+OSS: Dispatching process with PID 3 from queue 3 at time 14:932,915,642
+OSS: Total time this dispatch was 9,627 nanoseconds
+OSS: Receiving that process with PID 3 ran for 80,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 3
+
+OSS: Dispatching process with PID 3 from queue 3 at time 15:12,924,547
+OSS: Total time this dispatch was 8,905 nanoseconds
+OSS: Receiving that process with PID 3 ran for 1,212,121 nanoseconds
+OSS: Process 3 is blocked and did not use its entire timeslice
+
+OSS: Removing process 6 from the blocked queue
+OSS: Dispatching process with PID 6 from queue 1 at time 15:185,979,627
+OSS: Total time this dispatch was 4,112 nanoseconds
+OSS: Receiving that process with PID 6 ran for 281,690 nanoseconds
+OSS: Process 6 is blocked and did not use its entire timeslice
+
+OSS: Removing process 10 from the blocked queue
+OSS: Dispatching process with PID 10 from queue 1 at time 15:284,681,266
+OSS: Total time this dispatch was 6,356 nanoseconds
+OSS: Receiving that process with PID 10 ran for 20,000,000 nanoseconds
+OSS: Process 10 used its entire timeslice and is not blocked
+OSS: Putting process with PID 10 into queue 2
+
+OSS: Dispatching process with PID 10 from queue 2 at time 15:304,682,693
+OSS: Total time this dispatch was 1,427 nanoseconds
+OSS: Receiving that process with PID 10 ran for 526,315 nanoseconds
+OSS: Process 10 is blocked and did not use its entire timeslice
+
+OSS: Generating process with PID 4 at putting it in queue 1 at time 15:884,908,511
+OSS: Dispatching process with PID 4 from queue 1 at time 15:884,914,966
+OSS: Total time this dispatch was 6,455 nanoseconds
+OSS: Receiving that process with PID 4 ran for 10,000,000 nanoseconds
+OSS: Process 4 used its entire timeslice and is not blocked
+OSS: Putting process with PID 4 into queue 2
+
+OSS: Dispatching process with PID 4 from queue 2 at time 15:894,919,104
+OSS: Total time this dispatch was 4,138 nanoseconds
+OSS: Receiving that process with PID 4 ran for 40,000,000 nanoseconds
+OSS: Process 4 used its entire timeslice and is not blocked
+OSS: Putting process with PID 4 into queue 3
+
+OSS: Dispatching process with PID 4 from queue 3 at time 15:934,923,551
+OSS: Total time this dispatch was 4,447 nanoseconds
+OSS: Receiving that process with PID 4 ran for 40,000,000 nanoseconds
+OSS: Process 4 is blocked and did not use its entire timeslice
+
+OSS: Removing process 4 from the blocked queue
+OSS: Dispatching process with PID 4 from queue 1 at time 15:974,926,134
+OSS: Total time this dispatch was 2,583 nanoseconds
+OSS: Receiving that process with PID 4 ran for 202,020 nanoseconds
+OSS: Process 4 is blocked and did not use its entire timeslice
+
+OSS: Removing process 7 from the blocked queue
+OSS: Dispatching process with PID 7 from queue 1 at time 16:384,874,541
+OSS: Total time this dispatch was 6,877 nanoseconds
+OSS: Receiving that process with PID 7 ran for 20,000,000 nanoseconds
+OSS: Process 7 used its entire timeslice and is not blocked
+OSS: Putting process with PID 7 into queue 2
+
+OSS: Removing process 8 from the blocked queue
+OSS: Dispatching process with PID 8 from queue 1 at time 16:404,881,018
+OSS: Total time this dispatch was 6,477 nanoseconds
+OSS: Receiving that process with PID 8 ran for 20,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 2
+
+OSS: Dispatching process with PID 7 from queue 2 at time 16:424,886,119
+OSS: Total time this dispatch was 5,101 nanoseconds
+OSS: Receiving that process with PID 7 ran for 40,000,000 nanoseconds
+OSS: Process 7 used its entire timeslice and is not blocked
+OSS: Putting process with PID 7 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 2 at time 16:464,895,637
+OSS: Total time this dispatch was 9,518 nanoseconds
+OSS: Receiving that process with PID 8 ran for 40,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Dispatching process with PID 7 from queue 3 at time 16:504,897,988
+OSS: Total time this dispatch was 2,351 nanoseconds
+OSS: Receiving that process with PID 7 ran for 2,962,962 nanoseconds
+OSS: Process 7 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 8 from queue 3 at time 16:507,863,595
+OSS: Total time this dispatch was 2,645 nanoseconds
+OSS: Receiving that process with PID 8 ran for 80,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 3 at time 16:587,873,016
+OSS: Total time this dispatch was 9,421 nanoseconds
+OSS: Receiving that process with PID 8 ran for 80,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 3 at time 16:667,874,387
+OSS: Total time this dispatch was 1,371 nanoseconds
+OSS: Receiving that process with PID 8 ran for 80,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 3 at time 16:747,874,823
+OSS: Total time this dispatch was 436 nanoseconds
+OSS: Receiving that process with PID 8 ran for 80,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 3 at time 16:827,882,155
+OSS: Total time this dispatch was 7,332 nanoseconds
+OSS: Receiving that process with PID 8 ran for 1,081,081 nanoseconds
+OSS: Process 8 is blocked and did not use its entire timeslice
+
+OSS: Generating process with PID 11 at putting it in queue 1 at time 16:966,753,683
+OSS: Dispatching process with PID 11 from queue 1 at time 16:966,761,584
+OSS: Total time this dispatch was 7,901 nanoseconds
+OSS: Receiving that process with PID 11 ran for 107,526 nanoseconds
+OSS: Process 11 is blocked and did not use its entire timeslice
+
+OSS: Removing process 4 from the blocked queue
+OSS: Dispatching process with PID 4 from queue 1 at time 16:974,929,956
+OSS: Total time this dispatch was 181 nanoseconds
+OSS: Receiving that process with PID 4 ran for 2,857,142 nanoseconds
+OSS: Process 4 is blocked and did not use its entire timeslice
+
+OSS: Removing process 3 from the blocked queue
+OSS: Dispatching process with PID 3 from queue 1 at time 17:12,934,329
+OSS: Total time this dispatch was 8,051 nanoseconds
+OSS: Receiving that process with PID 3 ran for 540,540 nanoseconds
+OSS: Process 3 is blocked and did not use its entire timeslice
+
+OSS: Generating process with PID 12 at putting it in queue 1 at time 17:204,079,889
+OSS: Dispatching process with PID 12 from queue 1 at time 17:204,080,940
+OSS: Total time this dispatch was 1,051 nanoseconds
+OSS: Receiving that process with PID 12 ran for 10,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 2
+
+OSS: Dispatching process with PID 12 from queue 2 at time 17:214,083,604
+OSS: Total time this dispatch was 2,664 nanoseconds
+OSS: Receiving that process with PID 12 ran for 40,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Dispatching process with PID 12 from queue 3 at time 17:254,085,391
+OSS: Total time this dispatch was 1,787 nanoseconds
+OSS: Receiving that process with PID 12 ran for 80,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Removing process 10 from the blocked queue
+OSS: Dispatching process with PID 10 from queue 1 at time 17:334,095,299
+OSS: Total time this dispatch was 9,908 nanoseconds
+OSS: Receiving that process with PID 10 ran for 1,666,666 nanoseconds
+OSS: Process 10 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 12 from queue 3 at time 17:335,770,194
+OSS: Total time this dispatch was 8,229 nanoseconds
+OSS: Receiving that process with PID 12 ran for 80,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Dispatching process with PID 12 from queue 3 at time 17:415,775,068
+OSS: Total time this dispatch was 4,874 nanoseconds
+OSS: Receiving that process with PID 12 ran for 80,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Dispatching process with PID 12 from queue 3 at time 17:495,776,846
+OSS: Total time this dispatch was 1,778 nanoseconds
+OSS: Receiving that process with PID 12 ran for 1,860,465 nanoseconds
+OSS: Process 12 is blocked and did not use its entire timeslice
+
+OSS: Removing process 12 from the blocked queue
+OSS: Dispatching process with PID 12 from queue 1 at time 17:497,640,382
+OSS: Total time this dispatch was 3,071 nanoseconds
+OSS: Receiving that process with PID 12 ran for 20,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 2
+
+OSS: Dispatching process with PID 12 from queue 2 at time 17:517,649,477
+OSS: Total time this dispatch was 9,095 nanoseconds
+OSS: Receiving that process with PID 12 ran for 40,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Dispatching process with PID 12 from queue 3 at time 17:557,656,293
+OSS: Total time this dispatch was 6,816 nanoseconds
+OSS: Receiving that process with PID 12 ran for 80,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Dispatching process with PID 12 from queue 3 at time 17:637,657,260
+OSS: Total time this dispatch was 967 nanoseconds
+OSS: Receiving that process with PID 12 ran for 80,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Dispatching process with PID 12 from queue 3 at time 17:717,657,510
+OSS: Total time this dispatch was 250 nanoseconds
+OSS: Receiving that process with PID 12 ran for 80,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Removing process 9 from the blocked queue
+OSS: Removing process 5 from the blocked queue
+OSS: Dispatching process with PID 9 from queue 1 at time 17:797,665,103
+OSS: Total time this dispatch was 7,593 nanoseconds
+OSS: Receiving that process with PID 9 ran for 20,000,000 nanoseconds
+OSS: Process 9 used its entire timeslice and is not blocked
+OSS: Putting process with PID 9 into queue 2
+
+OSS: Dispatching process with PID 5 from queue 1 at time 17:817,668,426
+OSS: Total time this dispatch was 3,323 nanoseconds
+OSS: Receiving that process with PID 5 ran for 20,000,000 nanoseconds
+OSS: Process 5 used its entire timeslice and is not blocked
+OSS: Putting process with PID 5 into queue 2
+
+OSS: Dispatching process with PID 9 from queue 2 at time 17:837,675,675
+OSS: Total time this dispatch was 7,249 nanoseconds
+OSS: Receiving that process with PID 9 ran for 40,000,000 nanoseconds
+OSS: Process 9 used its entire timeslice and is not blocked
+OSS: Putting process with PID 9 into queue 3
+
+OSS: Dispatching process with PID 5 from queue 2 at time 17:877,678,285
+OSS: Total time this dispatch was 2,610 nanoseconds
+OSS: Receiving that process with PID 5 ran for 519,480 nanoseconds
+OSS: Process 5 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 12 from queue 3 at time 17:878,203,105
+OSS: Total time this dispatch was 5,340 nanoseconds
+OSS: Receiving that process with PID 12 ran for 80,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Dispatching process with PID 9 from queue 3 at time 17:958,211,353
+OSS: Total time this dispatch was 8,248 nanoseconds
+OSS: Receiving that process with PID 9 ran for 3,809,523 nanoseconds
+OSS: Process 9 terminated
+
+OSS: Dispatching process with PID 12 from queue 3 at time 17:962,025,037
+OSS: Total time this dispatch was 4,161 nanoseconds
+OSS: Receiving that process with PID 12 ran for 80,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Removing process 3 from the blocked queue
+OSS: Dispatching process with PID 3 from queue 1 at time 18:42,027,913
+OSS: Total time this dispatch was 2,876 nanoseconds
+OSS: Receiving that process with PID 3 ran for 20,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 2
+
+OSS: Dispatching process with PID 3 from queue 2 at time 18:62,031,563
+OSS: Total time this dispatch was 3,650 nanoseconds
+OSS: Receiving that process with PID 3 ran for 540,540 nanoseconds
+OSS: Process 3 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 12 from queue 3 at time 18:62,576,887
+OSS: Total time this dispatch was 4,784 nanoseconds
+OSS: Receiving that process with PID 12 ran for 3,200,000 nanoseconds
+OSS: Process 12 terminated
+
+OSS: Removing process 1 from the blocked queue
+OSS: Dispatching process with PID 1 from queue 1 at time 18:104,812,917
+OSS: Total time this dispatch was 4,327 nanoseconds
+OSS: Receiving that process with PID 1 ran for 20,000,000 nanoseconds
+OSS: Process 1 used its entire timeslice and is not blocked
+OSS: Putting process with PID 1 into queue 2
+
+OSS: Dispatching process with PID 1 from queue 2 at time 18:124,813,890
+OSS: Total time this dispatch was 973 nanoseconds
+OSS: Receiving that process with PID 1 ran for 714,285 nanoseconds
+OSS: Process 1 is blocked and did not use its entire timeslice
+
+OSS: Removing process 2 from the blocked queue
+OSS: Dispatching process with PID 2 from queue 1 at time 18:466,026,811
+OSS: Total time this dispatch was 2,786 nanoseconds
+OSS: Receiving that process with PID 2 ran for 606,060 nanoseconds
+OSS: Process 2 is blocked and did not use its entire timeslice
+
+OSS: Generating process with PID 9 at putting it in queue 1 at time 18:765,804,093
+OSS: Dispatching process with PID 9 from queue 1 at time 18:765,805,513
+OSS: Total time this dispatch was 1,420 nanoseconds
+OSS: Receiving that process with PID 9 ran for 10,000,000 nanoseconds
+OSS: Process 9 used its entire timeslice and is not blocked
+OSS: Putting process with PID 9 into queue 2
+
+OSS: Dispatching process with PID 9 from queue 2 at time 18:775,807,311
+OSS: Total time this dispatch was 1,798 nanoseconds
+OSS: Receiving that process with PID 9 ran for 40,000,000 nanoseconds
+OSS: Process 9 used its entire timeslice and is not blocked
+OSS: Putting process with PID 9 into queue 3
+
+OSS: Dispatching process with PID 9 from queue 3 at time 18:815,809,746
+OSS: Total time this dispatch was 2,435 nanoseconds
+OSS: Receiving that process with PID 9 ran for 80,000,000 nanoseconds
+OSS: Process 9 used its entire timeslice and is not blocked
+OSS: Putting process with PID 9 into queue 3
+
+OSS: Dispatching process with PID 9 from queue 3 at time 18:895,812,532
+OSS: Total time this dispatch was 2,786 nanoseconds
+OSS: Receiving that process with PID 9 ran for 80,000,000 nanoseconds
+OSS: Process 9 used its entire timeslice and is not blocked
+OSS: Putting process with PID 9 into queue 3
+
+OSS: Removing process 11 from the blocked queue
+OSS: Dispatching process with PID 11 from queue 1 at time 18:975,818,414
+OSS: Total time this dispatch was 5,882 nanoseconds
+OSS: Receiving that process with PID 11 ran for 20,000,000 nanoseconds
+OSS: Process 11 used its entire timeslice and is not blocked
+OSS: Putting process with PID 11 into queue 2
+
+OSS: Dispatching process with PID 11 from queue 2 at time 18:995,825,327
+OSS: Total time this dispatch was 6,913 nanoseconds
+OSS: Receiving that process with PID 11 ran for 40,000,000 nanoseconds
+OSS: Process 11 used its entire timeslice and is not blocked
+OSS: Putting process with PID 11 into queue 3
+
+OSS: Dispatching process with PID 9 from queue 3 at time 19:35,826,767
+OSS: Total time this dispatch was 1,440 nanoseconds
+OSS: Receiving that process with PID 9 ran for 80,000,000 nanoseconds
+OSS: Process 9 used its entire timeslice and is not blocked
+OSS: Putting process with PID 9 into queue 3
+
+OSS: Removing process 3 from the blocked queue
+OSS: Dispatching process with PID 3 from queue 1 at time 19:115,835,658
+OSS: Total time this dispatch was 8,891 nanoseconds
+OSS: Receiving that process with PID 3 ran for 20,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 2
+
+OSS: Dispatching process with PID 3 from queue 2 at time 19:135,841,143
+OSS: Total time this dispatch was 5,485 nanoseconds
+OSS: Receiving that process with PID 3 ran for 40,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 3
+
+OSS: Dispatching process with PID 11 from queue 3 at time 19:175,844,887
+OSS: Total time this dispatch was 3,744 nanoseconds
+OSS: Receiving that process with PID 11 ran for 80,000,000 nanoseconds
+OSS: Process 11 used its entire timeslice and is not blocked
+OSS: Putting process with PID 11 into queue 3
+
+OSS: Removing process 6 from the blocked queue
+OSS: Dispatching process with PID 6 from queue 1 at time 19:255,845,405
+OSS: Total time this dispatch was 518 nanoseconds
+OSS: Receiving that process with PID 6 ran for 20,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 2
+
+OSS: Dispatching process with PID 6 from queue 2 at time 19:275,852,312
+OSS: Total time this dispatch was 6,907 nanoseconds
+OSS: Receiving that process with PID 6 ran for 40,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 3
+
+OSS: Dispatching process with PID 9 from queue 3 at time 19:315,853,206
+OSS: Total time this dispatch was 894 nanoseconds
+OSS: Receiving that process with PID 9 ran for 80,000,000 nanoseconds
+OSS: Process 9 used its entire timeslice and is not blocked
+OSS: Putting process with PID 9 into queue 3
+
+OSS: Removing process 10 from the blocked queue
+OSS: Dispatching process with PID 10 from queue 1 at time 19:395,853,587
+OSS: Total time this dispatch was 381 nanoseconds
+OSS: Receiving that process with PID 10 ran for 20,000,000 nanoseconds
+OSS: Process 10 used its entire timeslice and is not blocked
+OSS: Putting process with PID 10 into queue 2
+
+OSS: Dispatching process with PID 10 from queue 2 at time 19:415,857,252
+OSS: Total time this dispatch was 3,665 nanoseconds
+OSS: Receiving that process with PID 10 ran for 40,000,000 nanoseconds
+OSS: Process 10 used its entire timeslice and is not blocked
+OSS: Putting process with PID 10 into queue 3
+
+OSS: Dispatching process with PID 3 from queue 3 at time 19:455,864,297
+OSS: Total time this dispatch was 7,045 nanoseconds
+OSS: Receiving that process with PID 3 ran for 1,126,760 nanoseconds
+OSS: Process 3 terminated
+
+OSS: Dispatching process with PID 11 from queue 3 at time 19:456,993,806
+OSS: Total time this dispatch was 2,749 nanoseconds
+OSS: Receiving that process with PID 11 ran for 2,580,645 nanoseconds
+OSS: Process 11 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 6 from queue 3 at time 19:459,579,990
+OSS: Total time this dispatch was 5,539 nanoseconds
+OSS: Receiving that process with PID 6 ran for 1,212,121 nanoseconds
+OSS: Process 6 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 9 from queue 3 at time 19:460,795,940
+OSS: Total time this dispatch was 3,829 nanoseconds
+OSS: Receiving that process with PID 9 ran for 80,000,000 nanoseconds
+OSS: Process 9 used its entire timeslice and is not blocked
+OSS: Putting process with PID 9 into queue 3
+
+OSS: Removing process 2 from the blocked queue
+OSS: Dispatching process with PID 2 from queue 1 at time 19:540,799,882
+OSS: Total time this dispatch was 3,942 nanoseconds
+OSS: Receiving that process with PID 2 ran for 20,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 2
+
+OSS: Dispatching process with PID 2 from queue 2 at time 19:560,803,639
+OSS: Total time this dispatch was 3,757 nanoseconds
+OSS: Receiving that process with PID 2 ran for 40,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Dispatching process with PID 10 from queue 3 at time 19:600,811,726
+OSS: Total time this dispatch was 8,087 nanoseconds
+OSS: Receiving that process with PID 10 ran for 80,000,000 nanoseconds
+OSS: Process 10 used its entire timeslice and is not blocked
+OSS: Putting process with PID 10 into queue 3
+
+OSS: Dispatching process with PID 9 from queue 3 at time 19:680,815,918
+OSS: Total time this dispatch was 4,192 nanoseconds
+OSS: Receiving that process with PID 9 ran for 80,000,000 nanoseconds
+OSS: Process 9 used its entire timeslice and is not blocked
+OSS: Putting process with PID 9 into queue 3
+
+OSS: Dispatching process with PID 2 from queue 3 at time 19:760,817,403
+OSS: Total time this dispatch was 1,485 nanoseconds
+OSS: Receiving that process with PID 2 ran for 80,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Removing process 8 from the blocked queue
+OSS: Dispatching process with PID 8 from queue 1 at time 19:840,818,335
+OSS: Total time this dispatch was 932 nanoseconds
+OSS: Receiving that process with PID 8 ran for 20,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 2
+
+OSS: Dispatching process with PID 8 from queue 2 at time 19:860,825,249
+OSS: Total time this dispatch was 6,914 nanoseconds
+OSS: Receiving that process with PID 8 ran for 40,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Removing process 5 from the blocked queue
+OSS: Dispatching process with PID 5 from queue 1 at time 19:900,829,804
+OSS: Total time this dispatch was 4,555 nanoseconds
+OSS: Receiving that process with PID 5 ran for 20,000,000 nanoseconds
+OSS: Process 5 used its entire timeslice and is not blocked
+OSS: Putting process with PID 5 into queue 2
+
+OSS: Dispatching process with PID 5 from queue 2 at time 19:920,839,615
+OSS: Total time this dispatch was 9,811 nanoseconds
+OSS: Receiving that process with PID 5 ran for 40,000,000 nanoseconds
+OSS: Process 5 used its entire timeslice and is not blocked
+OSS: Putting process with PID 5 into queue 3
+
+OSS: Dispatching process with PID 10 from queue 3 at time 19:960,840,867
+OSS: Total time this dispatch was 1,252 nanoseconds
+OSS: Receiving that process with PID 10 ran for 80,000,000 nanoseconds
+OSS: Process 10 used its entire timeslice and is not blocked
+OSS: Putting process with PID 10 into queue 3
+
+OSS: Removing process 4 from the blocked queue
+OSS: Dispatching process with PID 4 from queue 1 at time 20:40,849,412
+OSS: Total time this dispatch was 8,545 nanoseconds
+OSS: Receiving that process with PID 4 ran for 769,230 nanoseconds
+OSS: Process 4 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 9 from queue 3 at time 20:41,618,967
+OSS: Total time this dispatch was 325 nanoseconds
+OSS: Receiving that process with PID 9 ran for 80,000,000 nanoseconds
+OSS: Process 9 used its entire timeslice and is not blocked
+OSS: Putting process with PID 9 into queue 3
+
+OSS: Generating process with PID 3 at putting it in queue 1 at time 20:121,618,967
+OSS: Dispatching process with PID 3 from queue 1 at time 20:121,621,628
+OSS: Total time this dispatch was 2,661 nanoseconds
+OSS: Receiving that process with PID 3 ran for 10,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 2
+
+OSS: Dispatching process with PID 3 from queue 2 at time 20:131,626,886
+OSS: Total time this dispatch was 5,258 nanoseconds
+OSS: Receiving that process with PID 3 ran for 40,000,000 nanoseconds
+OSS: Process 3 used its entire timeslice and is not blocked
+OSS: Putting process with PID 3 into queue 3
+
+OSS: Dispatching process with PID 2 from queue 3 at time 20:171,629,263
+OSS: Total time this dispatch was 2,377 nanoseconds
+OSS: Receiving that process with PID 2 ran for 80,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 3 at time 20:251,635,089
+OSS: Total time this dispatch was 5,826 nanoseconds
+OSS: Receiving that process with PID 8 ran for 80,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Dispatching process with PID 5 from queue 3 at time 20:331,638,039
+OSS: Total time this dispatch was 2,950 nanoseconds
+OSS: Receiving that process with PID 5 ran for 40,000,000 nanoseconds
+OSS: Process 5 is blocked and did not use its entire timeslice
+
+OSS: Removing process 5 from the blocked queue
+OSS: Dispatching process with PID 5 from queue 1 at time 20:371,639,208
+OSS: Total time this dispatch was 1,169 nanoseconds
+OSS: Receiving that process with PID 5 ran for 20,000,000 nanoseconds
+OSS: Process 5 used its entire timeslice and is not blocked
+OSS: Putting process with PID 5 into queue 2
+
+OSS: Dispatching process with PID 5 from queue 2 at time 20:391,640,419
+OSS: Total time this dispatch was 1,211 nanoseconds
+OSS: Receiving that process with PID 5 ran for 487,804 nanoseconds
+OSS: Process 5 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 10 from queue 3 at time 20:392,134,817
+OSS: Total time this dispatch was 6,594 nanoseconds
+OSS: Receiving that process with PID 10 ran for 1,142,857 nanoseconds
+OSS: Process 10 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 9 from queue 3 at time 20:393,285,613
+OSS: Total time this dispatch was 7,939 nanoseconds
+OSS: Receiving that process with PID 9 ran for 80,000,000 nanoseconds
+OSS: Process 9 used its entire timeslice and is not blocked
+OSS: Putting process with PID 9 into queue 3
+
+OSS: Dispatching process with PID 3 from queue 3 at time 20:473,293,632
+OSS: Total time this dispatch was 8,019 nanoseconds
+OSS: Receiving that process with PID 3 ran for 80,000,000 nanoseconds
+OSS: Process 3 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 2 from queue 3 at time 20:553,297,373
+OSS: Total time this dispatch was 3,741 nanoseconds
+OSS: Receiving that process with PID 2 ran for 80,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 3 at time 20:633,305,593
+OSS: Total time this dispatch was 8,220 nanoseconds
+OSS: Receiving that process with PID 8 ran for 80,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Dispatching process with PID 9 from queue 3 at time 20:713,313,529
+OSS: Total time this dispatch was 7,936 nanoseconds
+OSS: Receiving that process with PID 9 ran for 80,000,000 nanoseconds
+OSS: Process 9 used its entire timeslice and is not blocked
+OSS: Putting process with PID 9 into queue 3
+
+OSS: Dispatching process with PID 2 from queue 3 at time 20:793,314,215
+OSS: Total time this dispatch was 686 nanoseconds
+OSS: Receiving that process with PID 2 ran for 1,250,000 nanoseconds
+OSS: Process 2 is blocked and did not use its entire timeslice
+
+OSS: Removing process 2 from the blocked queue
+OSS: Dispatching process with PID 2 from queue 1 at time 20:794,565,085
+OSS: Total time this dispatch was 870 nanoseconds
+OSS: Receiving that process with PID 2 ran for 20,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 2
+
+OSS: Dispatching process with PID 2 from queue 2 at time 20:814,568,460
+OSS: Total time this dispatch was 3,375 nanoseconds
+OSS: Receiving that process with PID 2 ran for 40,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 3 at time 20:854,569,227
+OSS: Total time this dispatch was 767 nanoseconds
+OSS: Receiving that process with PID 8 ran for 80,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Dispatching process with PID 9 from queue 3 at time 20:934,570,291
+OSS: Total time this dispatch was 1,064 nanoseconds
+OSS: Receiving that process with PID 9 ran for 80,000,000 nanoseconds
+OSS: Process 9 used its entire timeslice and is not blocked
+OSS: Putting process with PID 9 into queue 3
+
+OSS: Dispatching process with PID 2 from queue 3 at time 21:14,573,676
+OSS: Total time this dispatch was 3,385 nanoseconds
+OSS: Receiving that process with PID 2 ran for 80,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 3 at time 21:94,578,783
+OSS: Total time this dispatch was 5,107 nanoseconds
+OSS: Receiving that process with PID 8 ran for 80,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Dispatching process with PID 9 from queue 3 at time 21:174,580,291
+OSS: Total time this dispatch was 1,508 nanoseconds
+OSS: Receiving that process with PID 9 ran for 80,000,000 nanoseconds
+OSS: Process 9 used its entire timeslice and is not blocked
+OSS: Putting process with PID 9 into queue 3
+
+OSS: Dispatching process with PID 2 from queue 3 at time 21:254,581,413
+OSS: Total time this dispatch was 1,122 nanoseconds
+OSS: Receiving that process with PID 2 ran for 80,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 3 at time 21:334,587,352
+OSS: Total time this dispatch was 5,939 nanoseconds
+OSS: Receiving that process with PID 8 ran for 1,176,470 nanoseconds
+OSS: Process 8 is blocked and did not use its entire timeslice
+
+OSS: Removing process 8 from the blocked queue
+OSS: Dispatching process with PID 8 from queue 1 at time 21:335,772,144
+OSS: Total time this dispatch was 8,322 nanoseconds
+OSS: Receiving that process with PID 8 ran for 20,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 2
+
+OSS: Dispatching process with PID 8 from queue 2 at time 21:355,774,073
+OSS: Total time this dispatch was 1,929 nanoseconds
+OSS: Receiving that process with PID 8 ran for 40,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Removing process 10 from the blocked queue
+OSS: Dispatching process with PID 10 from queue 1 at time 21:395,776,075
+OSS: Total time this dispatch was 2,002 nanoseconds
+OSS: Receiving that process with PID 10 ran for 20,000,000 nanoseconds
+OSS: Process 10 used its entire timeslice and is not blocked
+OSS: Putting process with PID 10 into queue 2
+
+OSS: Generating process with PID 12 at putting it in queue 1 at time 21:415,776,075
+OSS: Dispatching process with PID 12 from queue 1 at time 21:415,778,302
+OSS: Total time this dispatch was 2,227 nanoseconds
+OSS: Receiving that process with PID 12 ran for 10,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 2
+
+OSS: Dispatching process with PID 10 from queue 2 at time 21:425,786,601
+OSS: Total time this dispatch was 8,299 nanoseconds
+OSS: Receiving that process with PID 10 ran for 476,190 nanoseconds
+OSS: Process 10 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 12 from queue 2 at time 21:426,269,660
+OSS: Total time this dispatch was 6,869 nanoseconds
+OSS: Receiving that process with PID 12 ran for 3,333,333 nanoseconds
+OSS: Process 12 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 9 from queue 3 at time 21:429,604,133
+OSS: Total time this dispatch was 1,140 nanoseconds
+OSS: Receiving that process with PID 9 ran for 1,538,461 nanoseconds
+OSS: Process 9 terminated
+
+OSS: Dispatching process with PID 2 from queue 3 at time 21:431,152,403
+OSS: Total time this dispatch was 9,809 nanoseconds
+OSS: Receiving that process with PID 2 ran for 80,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Removing process 6 from the blocked queue
+OSS: Removing process 7 from the blocked queue
+OSS: Dispatching process with PID 6 from queue 1 at time 21:511,161,550
+OSS: Total time this dispatch was 9,147 nanoseconds
+OSS: Receiving that process with PID 6 ran for 20,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 2
+
+OSS: Dispatching process with PID 7 from queue 1 at time 21:531,168,417
+OSS: Total time this dispatch was 6,867 nanoseconds
+OSS: Receiving that process with PID 7 ran for 2,222,222 nanoseconds
+OSS: Process 7 is blocked and did not use its entire timeslice
+
+OSS: Removing process 7 from the blocked queue
+OSS: Dispatching process with PID 7 from queue 1 at time 21:533,393,299
+OSS: Total time this dispatch was 2,660 nanoseconds
+OSS: Receiving that process with PID 7 ran for 344,827 nanoseconds
+OSS: Process 7 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 6 from queue 2 at time 21:533,744,694
+OSS: Total time this dispatch was 6,568 nanoseconds
+OSS: Receiving that process with PID 6 ran for 2,000,000 nanoseconds
+OSS: Process 6 is blocked and did not use its entire timeslice
+
+OSS: Removing process 6 from the blocked queue
+OSS: Dispatching process with PID 6 from queue 1 at time 21:535,749,024
+OSS: Total time this dispatch was 4,330 nanoseconds
+OSS: Receiving that process with PID 6 ran for 20,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 2
+
+OSS: Dispatching process with PID 6 from queue 2 at time 21:555,754,530
+OSS: Total time this dispatch was 5,506 nanoseconds
+OSS: Receiving that process with PID 6 ran for 40,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 3 at time 21:595,758,937
+OSS: Total time this dispatch was 4,407 nanoseconds
+OSS: Receiving that process with PID 8 ran for 1,038,961 nanoseconds
+OSS: Process 8 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 2 from queue 3 at time 21:596,800,147
+OSS: Total time this dispatch was 2,249 nanoseconds
+OSS: Receiving that process with PID 2 ran for 80,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Dispatching process with PID 6 from queue 3 at time 21:676,809,294
+OSS: Total time this dispatch was 9,147 nanoseconds
+OSS: Receiving that process with PID 6 ran for 1,509,433 nanoseconds
+OSS: Process 6 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 2 from queue 3 at time 21:678,327,606
+OSS: Total time this dispatch was 8,879 nanoseconds
+OSS: Receiving that process with PID 2 ran for 1,333,333 nanoseconds
+OSS: Process 2 is blocked and did not use its entire timeslice
+
+OSS: Removing process 2 from the blocked queue
+OSS: Dispatching process with PID 2 from queue 1 at time 21:679,667,376
+OSS: Total time this dispatch was 6,437 nanoseconds
+OSS: Receiving that process with PID 2 ran for 377,358 nanoseconds
+OSS: Process 2 terminated
+
+OSS: Removing process 1 from the blocked queue
+OSS: Dispatching process with PID 1 from queue 1 at time 22:124,822,149
+OSS: Total time this dispatch was 4,579 nanoseconds
+OSS: Receiving that process with PID 1 ran for 425,531 nanoseconds
+OSS: Process 1 is blocked and did not use its entire timeslice
+
+OSS: Removing process 1 from the blocked queue
+OSS: Dispatching process with PID 1 from queue 1 at time 22:125,248,310
+OSS: Total time this dispatch was 630 nanoseconds
+OSS: Receiving that process with PID 1 ran for 20,000,000 nanoseconds
+OSS: Process 1 used its entire timeslice and is not blocked
+OSS: Putting process with PID 1 into queue 2
+
+OSS: Dispatching process with PID 1 from queue 2 at time 22:145,249,536
+OSS: Total time this dispatch was 1,226 nanoseconds
+OSS: Receiving that process with PID 1 ran for 2,857,142 nanoseconds
+OSS: Process 1 is blocked and did not use its entire timeslice
+
+OSS: Generating process with PID 2 at putting it in queue 1 at time 22:452,989,423
+OSS: Dispatching process with PID 2 from queue 1 at time 22:452,994,248
+OSS: Total time this dispatch was 4,825 nanoseconds
+OSS: Receiving that process with PID 2 ran for 10,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 2
+
+OSS: Dispatching process with PID 2 from queue 2 at time 22:463,000,031
+OSS: Total time this dispatch was 5,783 nanoseconds
+OSS: Receiving that process with PID 2 ran for 40,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Dispatching process with PID 2 from queue 3 at time 22:503,006,860
+OSS: Total time this dispatch was 6,829 nanoseconds
+OSS: Receiving that process with PID 2 ran for 80,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Dispatching process with PID 2 from queue 3 at time 22:583,014,923
+OSS: Total time this dispatch was 8,063 nanoseconds
+OSS: Receiving that process with PID 2 ran for 80,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Dispatching process with PID 2 from queue 3 at time 22:663,020,178
+OSS: Total time this dispatch was 5,255 nanoseconds
+OSS: Receiving that process with PID 2 ran for 80,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 3
+
+OSS: Generating process with PID 9 at putting it in queue 1 at time 22:743,020,178
+OSS: Dispatching process with PID 9 from queue 1 at time 22:743,022,464
+OSS: Total time this dispatch was 2,286 nanoseconds
+OSS: Receiving that process with PID 9 ran for 102,040 nanoseconds
+OSS: Process 9 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 2 from queue 3 at time 22:743,133,449
+OSS: Total time this dispatch was 8,945 nanoseconds
+OSS: Receiving that process with PID 2 ran for 1,038,961 nanoseconds
+OSS: Process 2 is blocked and did not use its entire timeslice
+
+OSS: Generating process with PID 13 at putting it in queue 1 at time 23:581,519,287
+OSS: Dispatching process with PID 13 from queue 1 at time 23:581,524,714
+OSS: Total time this dispatch was 5,427 nanoseconds
+OSS: Receiving that process with PID 13 ran for 10,000,000 nanoseconds
+OSS: Process 13 used its entire timeslice and is not blocked
+OSS: Putting process with PID 13 into queue 2
+
+OSS: Dispatching process with PID 13 from queue 2 at time 23:591,527,904
+OSS: Total time this dispatch was 3,190 nanoseconds
+OSS: Receiving that process with PID 13 ran for 40,000,000 nanoseconds
+OSS: Process 13 used its entire timeslice and is not blocked
+OSS: Putting process with PID 13 into queue 3
+
+OSS: Dispatching process with PID 13 from queue 3 at time 23:631,533,874
+OSS: Total time this dispatch was 5,970 nanoseconds
+OSS: Receiving that process with PID 13 ran for 80,000,000 nanoseconds
+OSS: Process 13 used its entire timeslice and is not blocked
+OSS: Putting process with PID 13 into queue 3
+
+OSS: Removing process 6 from the blocked queue
+OSS: Dispatching process with PID 6 from queue 1 at time 23:711,541,690
+OSS: Total time this dispatch was 7,816 nanoseconds
+OSS: Receiving that process with PID 6 ran for 20,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 2
+
+OSS: Dispatching process with PID 6 from queue 2 at time 23:731,548,846
+OSS: Total time this dispatch was 7,156 nanoseconds
+OSS: Receiving that process with PID 6 ran for 40,000,000 nanoseconds
+OSS: Process 6 used its entire timeslice and is not blocked
+OSS: Putting process with PID 6 into queue 3
+
+OSS: Dispatching process with PID 13 from queue 3 at time 23:771,552,324
+OSS: Total time this dispatch was 3,478 nanoseconds
+OSS: Receiving that process with PID 13 ran for 80,000,000 nanoseconds
+OSS: Process 13 used its entire timeslice and is not blocked
+OSS: Putting process with PID 13 into queue 3
+
+OSS: Dispatching process with PID 6 from queue 3 at time 23:851,560,887
+OSS: Total time this dispatch was 8,563 nanoseconds
+OSS: Receiving that process with PID 6 ran for 842,105 nanoseconds
+OSS: Process 6 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 13 from queue 3 at time 23:852,405,557
+OSS: Total time this dispatch was 2,565 nanoseconds
+OSS: Receiving that process with PID 13 ran for 1,355,932 nanoseconds
+OSS: Process 13 is blocked and did not use its entire timeslice
+
+OSS: Removing process 13 from the blocked queue
+OSS: Dispatching process with PID 13 from queue 1 at time 23:853,766,159
+OSS: Total time this dispatch was 4,670 nanoseconds
+OSS: Receiving that process with PID 13 ran for 20,000,000 nanoseconds
+OSS: Process 13 used its entire timeslice and is not blocked
+OSS: Putting process with PID 13 into queue 2
+
+OSS: Dispatching process with PID 13 from queue 2 at time 23:873,773,095
+OSS: Total time this dispatch was 6,936 nanoseconds
+OSS: Receiving that process with PID 13 ran for 3,333,333 nanoseconds
+OSS: Process 13 is blocked and did not use its entire timeslice
+
+OSS: Removing process 4 from the blocked queue
+OSS: Dispatching process with PID 4 from queue 1 at time 24:40,857,835
+OSS: Total time this dispatch was 4,668 nanoseconds
+OSS: Receiving that process with PID 4 ran for 20,000,000 nanoseconds
+OSS: Process 4 used its entire timeslice and is not blocked
+OSS: Putting process with PID 4 into queue 2
+
+OSS: Dispatching process with PID 4 from queue 2 at time 24:60,865,969
+OSS: Total time this dispatch was 8,134 nanoseconds
+OSS: Receiving that process with PID 4 ran for 869,565 nanoseconds
+OSS: Process 4 terminated
+
+OSS: Removing process 11 from the blocked queue
+OSS: Dispatching process with PID 11 from queue 1 at time 24:457,006,605
+OSS: Total time this dispatch was 8,868 nanoseconds
+OSS: Receiving that process with PID 11 ran for 20,000,000 nanoseconds
+OSS: Process 11 used its entire timeslice and is not blocked
+OSS: Putting process with PID 11 into queue 2
+
+OSS: Dispatching process with PID 11 from queue 2 at time 24:477,015,147
+OSS: Total time this dispatch was 8,542 nanoseconds
+OSS: Receiving that process with PID 11 ran for 40,000,000 nanoseconds
+OSS: Process 11 used its entire timeslice and is not blocked
+OSS: Putting process with PID 11 into queue 3
+
+OSS: Dispatching process with PID 11 from queue 3 at time 24:517,021,390
+OSS: Total time this dispatch was 6,243 nanoseconds
+OSS: Receiving that process with PID 11 ran for 80,000,000 nanoseconds
+OSS: Process 11 used its entire timeslice and is not blocked
+OSS: Putting process with PID 11 into queue 3
+
+OSS: Generating process with PID 4 at putting it in queue 1 at time 24:597,021,390
+OSS: Removing process 7 from the blocked queue
+OSS: Dispatching process with PID 4 from queue 1 at time 24:597,026,304
+OSS: Total time this dispatch was 4,914 nanoseconds
+OSS: Receiving that process with PID 4 ran for 10,000,000 nanoseconds
+OSS: Process 4 used its entire timeslice and is not blocked
+OSS: Putting process with PID 4 into queue 2
+
+OSS: Dispatching process with PID 7 from queue 1 at time 24:607,029,917
+OSS: Total time this dispatch was 3,613 nanoseconds
+OSS: Receiving that process with PID 7 ran for 20,000,000 nanoseconds
+OSS: Process 7 used its entire timeslice and is not blocked
+OSS: Putting process with PID 7 into queue 2
+
+OSS: Dispatching process with PID 4 from queue 2 at time 24:627,034,924
+OSS: Total time this dispatch was 5,007 nanoseconds
+OSS: Receiving that process with PID 4 ran for 4,444,444 nanoseconds
+OSS: Process 4 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 7 from queue 2 at time 24:631,486,269
+OSS: Total time this dispatch was 6,901 nanoseconds
+OSS: Receiving that process with PID 7 ran for 40,000,000 nanoseconds
+OSS: Process 7 used its entire timeslice and is not blocked
+OSS: Putting process with PID 7 into queue 3
+
+OSS: Dispatching process with PID 11 from queue 3 at time 24:671,489,794
+OSS: Total time this dispatch was 3,525 nanoseconds
+OSS: Receiving that process with PID 11 ran for 1,081,081 nanoseconds
+OSS: Process 11 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 7 from queue 3 at time 24:672,576,554
+OSS: Total time this dispatch was 5,679 nanoseconds
+OSS: Receiving that process with PID 7 ran for 3,333,333 nanoseconds
+OSS: Process 7 is blocked and did not use its entire timeslice
+
+OSS: Removing process 9 from the blocked queue
+OSS: Dispatching process with PID 9 from queue 1 at time 24:743,030,633
+OSS: Total time this dispatch was 7,836 nanoseconds
+OSS: Receiving that process with PID 9 ran for 20,000,000 nanoseconds
+OSS: Process 9 used its entire timeslice and is not blocked
+OSS: Putting process with PID 9 into queue 2
+
+OSS: Dispatching process with PID 9 from queue 2 at time 24:763,037,097
+OSS: Total time this dispatch was 6,464 nanoseconds
+OSS: Receiving that process with PID 9 ran for 952,380 nanoseconds
+OSS: Process 9 is blocked and did not use its entire timeslice
+
+OSS: Removing process 5 from the blocked queue
+OSS: Dispatching process with PID 5 from queue 1 at time 25:391,657,081
+OSS: Total time this dispatch was 8,966 nanoseconds
+OSS: Receiving that process with PID 5 ran for 20,000,000 nanoseconds
+OSS: Process 5 used its entire timeslice and is not blocked
+OSS: Putting process with PID 5 into queue 2
+
+OSS: Dispatching process with PID 5 from queue 2 at time 25:411,658,527
+OSS: Total time this dispatch was 1,446 nanoseconds
+OSS: Receiving that process with PID 5 ran for 40,000,000 nanoseconds
+OSS: Process 5 used its entire timeslice and is not blocked
+OSS: Putting process with PID 5 into queue 3
+
+OSS: Generating process with PID 14 at putting it in queue 1 at time 25:451,658,527
+OSS: Removing process 10 from the blocked queue
+OSS: Dispatching process with PID 14 from queue 1 at time 25:451,667,564
+OSS: Total time this dispatch was 9,037 nanoseconds
+OSS: Receiving that process with PID 14 ran for 10,000,000 nanoseconds
+OSS: Process 14 used its entire timeslice and is not blocked
+OSS: Putting process with PID 14 into queue 2
+
+OSS: Dispatching process with PID 10 from queue 1 at time 25:461,675,955
+OSS: Total time this dispatch was 8,391 nanoseconds
+OSS: Receiving that process with PID 10 ran for 20,000,000 nanoseconds
+OSS: Process 10 used its entire timeslice and is not blocked
+OSS: Putting process with PID 10 into queue 2
+
+OSS: Removing process 3 from the blocked queue
+OSS: Dispatching process with PID 3 from queue 1 at time 25:481,680,171
+OSS: Total time this dispatch was 4,216 nanoseconds
+OSS: Receiving that process with PID 3 ran for 270,270 nanoseconds
+OSS: Process 3 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 14 from queue 2 at time 25:481,953,103
+OSS: Total time this dispatch was 2,662 nanoseconds
+OSS: Receiving that process with PID 14 ran for 40,000,000 nanoseconds
+OSS: Process 14 used its entire timeslice and is not blocked
+OSS: Putting process with PID 14 into queue 3
+
+OSS: Dispatching process with PID 10 from queue 2 at time 25:521,957,292
+OSS: Total time this dispatch was 4,189 nanoseconds
+OSS: Receiving that process with PID 10 ran for 40,000,000 nanoseconds
+OSS: Process 10 used its entire timeslice and is not blocked
+OSS: Putting process with PID 10 into queue 3
+
+OSS: Dispatching process with PID 5 from queue 3 at time 25:561,965,791
+OSS: Total time this dispatch was 8,499 nanoseconds
+OSS: Receiving that process with PID 5 ran for 80,000,000 nanoseconds
+OSS: Process 5 used its entire timeslice and is not blocked
+OSS: Putting process with PID 5 into queue 3
+
+OSS: Removing process 4 from the blocked queue
+OSS: Dispatching process with PID 4 from queue 1 at time 25:641,969,588
+OSS: Total time this dispatch was 3,797 nanoseconds
+OSS: Receiving that process with PID 4 ran for 20,000,000 nanoseconds
+OSS: Process 4 used its entire timeslice and is not blocked
+OSS: Putting process with PID 4 into queue 2
+
+OSS: Dispatching process with PID 4 from queue 2 at time 25:661,971,255
+OSS: Total time this dispatch was 1,667 nanoseconds
+OSS: Receiving that process with PID 4 ran for 40,000,000 nanoseconds
+OSS: Process 4 used its entire timeslice and is not blocked
+OSS: Putting process with PID 4 into queue 3
+
+OSS: Dispatching process with PID 14 from queue 3 at time 25:701,978,529
+OSS: Total time this dispatch was 7,274 nanoseconds
+OSS: Receiving that process with PID 14 ran for 80,000,000 nanoseconds
+OSS: Process 14 used its entire timeslice and is not blocked
+OSS: Putting process with PID 14 into queue 3
+
+OSS: Removing process 9 from the blocked queue
+OSS: Dispatching process with PID 9 from queue 1 at time 25:781,984,189
+OSS: Total time this dispatch was 5,660 nanoseconds
+OSS: Receiving that process with PID 9 ran for 487,804 nanoseconds
+OSS: Process 9 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 10 from queue 3 at time 25:782,472,168
+OSS: Total time this dispatch was 175 nanoseconds
+OSS: Receiving that process with PID 10 ran for 80,000,000 nanoseconds
+OSS: Process 10 used its entire timeslice and is not blocked
+OSS: Putting process with PID 10 into queue 3
+
+OSS: Dispatching process with PID 5 from queue 3 at time 25:862,479,986
+OSS: Total time this dispatch was 7,818 nanoseconds
+OSS: Receiving that process with PID 5 ran for 80,000,000 nanoseconds
+OSS: Process 5 used its entire timeslice and is not blocked
+OSS: Putting process with PID 5 into queue 3
+
+OSS: Dispatching process with PID 4 from queue 3 at time 25:942,488,362
+OSS: Total time this dispatch was 8,376 nanoseconds
+OSS: Receiving that process with PID 4 ran for 80,000,000 nanoseconds
+OSS: Process 4 used its entire timeslice and is not blocked
+OSS: Putting process with PID 4 into queue 3
+
+OSS: Dispatching process with PID 14 from queue 3 at time 26:22,488,506
+OSS: Total time this dispatch was 144 nanoseconds
+OSS: Receiving that process with PID 14 ran for 80,000,000 nanoseconds
+OSS: Process 14 used its entire timeslice and is not blocked
+OSS: Putting process with PID 14 into queue 3
+
+OSS: Dispatching process with PID 10 from queue 3 at time 26:102,488,700
+OSS: Total time this dispatch was 194 nanoseconds
+OSS: Receiving that process with PID 10 ran for 80,000,000 nanoseconds
+OSS: Process 10 used its entire timeslice and is not blocked
+OSS: Putting process with PID 10 into queue 3
+
+OSS: Removing process 1 from the blocked queue
+OSS: Dispatching process with PID 1 from queue 1 at time 26:182,495,732
+OSS: Total time this dispatch was 7,032 nanoseconds
+OSS: Receiving that process with PID 1 ran for 235,294 nanoseconds
+OSS: Process 1 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 5 from queue 3 at time 26:182,739,567
+OSS: Total time this dispatch was 8,541 nanoseconds
+OSS: Receiving that process with PID 5 ran for 80,000,000 nanoseconds
+OSS: Process 5 used its entire timeslice and is not blocked
+OSS: Putting process with PID 5 into queue 3
+
+OSS: Dispatching process with PID 4 from queue 3 at time 26:262,743,122
+OSS: Total time this dispatch was 3,555 nanoseconds
+OSS: Receiving that process with PID 4 ran for 80,000,000 nanoseconds
+OSS: Process 4 used its entire timeslice and is not blocked
+OSS: Putting process with PID 4 into queue 3
+
+OSS: Dispatching process with PID 14 from queue 3 at time 26:342,752,780
+OSS: Total time this dispatch was 9,658 nanoseconds
+OSS: Receiving that process with PID 14 ran for 975,609 nanoseconds
+OSS: Process 14 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 10 from queue 3 at time 26:343,732,297
+OSS: Total time this dispatch was 3,908 nanoseconds
+OSS: Receiving that process with PID 10 ran for 80,000,000 nanoseconds
+OSS: Process 10 used its entire timeslice and is not blocked
+OSS: Putting process with PID 10 into queue 3
+
+OSS: Dispatching process with PID 5 from queue 3 at time 26:423,737,283
+OSS: Total time this dispatch was 4,986 nanoseconds
+OSS: Receiving that process with PID 5 ran for 80,000,000 nanoseconds
+OSS: Process 5 used its entire timeslice and is not blocked
+OSS: Putting process with PID 5 into queue 3
+
+OSS: Generating process with PID 15 at putting it in queue 1 at time 26:503,737,283
+OSS: Removing process 12 from the blocked queue
+OSS: Dispatching process with PID 15 from queue 1 at time 26:503,741,023
+OSS: Total time this dispatch was 3,740 nanoseconds
+OSS: Receiving that process with PID 15 ran for 10,000,000 nanoseconds
+OSS: Process 15 used its entire timeslice and is not blocked
+OSS: Putting process with PID 15 into queue 2
+
+OSS: Dispatching process with PID 12 from queue 1 at time 26:513,741,261
+OSS: Total time this dispatch was 238 nanoseconds
+OSS: Receiving that process with PID 12 ran for 20,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 2
+
+OSS: Dispatching process with PID 15 from queue 2 at time 26:533,745,634
+OSS: Total time this dispatch was 4,373 nanoseconds
+OSS: Receiving that process with PID 15 ran for 1,081,081 nanoseconds
+OSS: Process 15 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 12 from queue 2 at time 26:534,835,072
+OSS: Total time this dispatch was 8,357 nanoseconds
+OSS: Receiving that process with PID 12 ran for 40,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Dispatching process with PID 4 from queue 3 at time 26:574,844,177
+OSS: Total time this dispatch was 9,105 nanoseconds
+OSS: Receiving that process with PID 4 ran for 80,000,000 nanoseconds
+OSS: Process 4 used its entire timeslice and is not blocked
+OSS: Putting process with PID 4 into queue 3
+
+OSS: Removing process 8 from the blocked queue
+OSS: Dispatching process with PID 8 from queue 1 at time 26:654,849,896
+OSS: Total time this dispatch was 5,719 nanoseconds
+OSS: Receiving that process with PID 8 ran for 20,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 2
+
+OSS: Removing process 11 from the blocked queue
+OSS: Dispatching process with PID 11 from queue 1 at time 26:674,855,525
+OSS: Total time this dispatch was 5,629 nanoseconds
+OSS: Receiving that process with PID 11 ran for 377,358 nanoseconds
+OSS: Process 11 is blocked and did not use its entire timeslice
+
+OSS: Removing process 11 from the blocked queue
+OSS: Dispatching process with PID 11 from queue 1 at time 26:675,233,542
+OSS: Total time this dispatch was 659 nanoseconds
+OSS: Receiving that process with PID 11 ran for 20,000,000 nanoseconds
+OSS: Process 11 used its entire timeslice and is not blocked
+OSS: Putting process with PID 11 into queue 2
+
+OSS: Dispatching process with PID 8 from queue 2 at time 26:695,238,198
+OSS: Total time this dispatch was 4,656 nanoseconds
+OSS: Receiving that process with PID 8 ran for 40,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Dispatching process with PID 11 from queue 2 at time 26:735,238,470
+OSS: Total time this dispatch was 272 nanoseconds
+OSS: Receiving that process with PID 11 ran for 40,000,000 nanoseconds
+OSS: Process 11 used its entire timeslice and is not blocked
+OSS: Putting process with PID 11 into queue 3
+
+OSS: Removing process 2 from the blocked queue
+OSS: Dispatching process with PID 2 from queue 1 at time 26:775,239,598
+OSS: Total time this dispatch was 1,128 nanoseconds
+OSS: Receiving that process with PID 2 ran for 20,000,000 nanoseconds
+OSS: Process 2 used its entire timeslice and is not blocked
+OSS: Putting process with PID 2 into queue 2
+
+OSS: Dispatching process with PID 2 from queue 2 at time 26:795,246,816
+OSS: Total time this dispatch was 7,218 nanoseconds
+OSS: Receiving that process with PID 2 ran for 930,232 nanoseconds
+OSS: Process 2 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 10 from queue 3 at time 26:796,181,410
+OSS: Total time this dispatch was 4,362 nanoseconds
+OSS: Receiving that process with PID 10 ran for 80,000,000 nanoseconds
+OSS: Process 10 used its entire timeslice and is not blocked
+OSS: Putting process with PID 10 into queue 3
+
+OSS: Dispatching process with PID 5 from queue 3 at time 26:876,187,289
+OSS: Total time this dispatch was 5,879 nanoseconds
+OSS: Receiving that process with PID 5 ran for 824,742 nanoseconds
+OSS: Process 5 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 12 from queue 3 at time 26:877,019,298
+OSS: Total time this dispatch was 7,267 nanoseconds
+OSS: Receiving that process with PID 12 ran for 80,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Dispatching process with PID 4 from queue 3 at time 26:957,021,579
+OSS: Total time this dispatch was 2,281 nanoseconds
+OSS: Receiving that process with PID 4 ran for 3,333,333 nanoseconds
+OSS: Process 4 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 8 from queue 3 at time 26:960,357,965
+OSS: Total time this dispatch was 3,053 nanoseconds
+OSS: Receiving that process with PID 8 ran for 80,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Dispatching process with PID 11 from queue 3 at time 27:40,360,792
+OSS: Total time this dispatch was 2,827 nanoseconds
+OSS: Receiving that process with PID 11 ran for 888,888 nanoseconds
+OSS: Process 11 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 10 from queue 3 at time 27:41,252,036
+OSS: Total time this dispatch was 2,356 nanoseconds
+OSS: Receiving that process with PID 10 ran for 80,000,000 nanoseconds
+OSS: Process 10 used its entire timeslice and is not blocked
+OSS: Putting process with PID 10 into queue 3
+
+OSS: Dispatching process with PID 12 from queue 3 at time 27:121,259,159
+OSS: Total time this dispatch was 7,123 nanoseconds
+OSS: Receiving that process with PID 12 ran for 80,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 3 at time 27:201,260,262
+OSS: Total time this dispatch was 1,103 nanoseconds
+OSS: Receiving that process with PID 8 ran for 80,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Dispatching process with PID 10 from queue 3 at time 27:281,269,014
+OSS: Total time this dispatch was 8,752 nanoseconds
+OSS: Receiving that process with PID 10 ran for 80,000,000 nanoseconds
+OSS: Process 10 used its entire timeslice and is not blocked
+OSS: Putting process with PID 10 into queue 3
+
+OSS: Removing process 14 from the blocked queue
+OSS: Dispatching process with PID 14 from queue 1 at time 27:361,276,232
+OSS: Total time this dispatch was 7,218 nanoseconds
+OSS: Receiving that process with PID 14 ran for 833,333 nanoseconds
+OSS: Process 14 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 12 from queue 3 at time 27:362,113,952
+OSS: Total time this dispatch was 4,387 nanoseconds
+OSS: Receiving that process with PID 12 ran for 80,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 3 at time 27:442,117,497
+OSS: Total time this dispatch was 3,545 nanoseconds
+OSS: Receiving that process with PID 8 ran for 80,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Dispatching process with PID 10 from queue 3 at time 27:522,118,170
+OSS: Total time this dispatch was 673 nanoseconds
+OSS: Receiving that process with PID 10 ran for 5,000,000 nanoseconds
+OSS: Process 10 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 12 from queue 3 at time 27:527,118,468
+OSS: Total time this dispatch was 298 nanoseconds
+OSS: Receiving that process with PID 12 ran for 80,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 3 at time 27:607,122,173
+OSS: Total time this dispatch was 3,705 nanoseconds
+OSS: Receiving that process with PID 8 ran for 80,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Dispatching process with PID 12 from queue 3 at time 27:687,124,084
+OSS: Total time this dispatch was 1,911 nanoseconds
+OSS: Receiving that process with PID 12 ran for 80,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 3 at time 27:767,125,236
+OSS: Total time this dispatch was 1,152 nanoseconds
+OSS: Receiving that process with PID 8 ran for 80,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Removing process 9 from the blocked queue
+OSS: Dispatching process with PID 9 from queue 1 at time 27:847,133,930
+OSS: Total time this dispatch was 8,694 nanoseconds
+OSS: Receiving that process with PID 9 ran for 20,000,000 nanoseconds
+OSS: Process 9 used its entire timeslice and is not blocked
+OSS: Putting process with PID 9 into queue 2
+
+OSS: Dispatching process with PID 9 from queue 2 at time 27:867,139,481
+OSS: Total time this dispatch was 5,551 nanoseconds
+OSS: Receiving that process with PID 9 ran for 10,000,000 nanoseconds
+OSS: Process 9 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 12 from queue 3 at time 27:877,147,123
+OSS: Total time this dispatch was 7,642 nanoseconds
+OSS: Receiving that process with PID 12 ran for 80,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 3 at time 27:957,150,090
+OSS: Total time this dispatch was 2,967 nanoseconds
+OSS: Receiving that process with PID 8 ran for 80,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Dispatching process with PID 12 from queue 3 at time 28:37,150,250
+OSS: Total time this dispatch was 160 nanoseconds
+OSS: Receiving that process with PID 12 ran for 80,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 3 at time 28:117,156,897
+OSS: Total time this dispatch was 6,647 nanoseconds
+OSS: Receiving that process with PID 8 ran for 80,000,000 nanoseconds
+OSS: Process 8 used its entire timeslice and is not blocked
+OSS: Putting process with PID 8 into queue 3
+
+OSS: Removing process 1 from the blocked queue
+OSS: Dispatching process with PID 1 from queue 1 at time 28:197,165,484
+OSS: Total time this dispatch was 8,587 nanoseconds
+OSS: Receiving that process with PID 1 ran for 20,000,000 nanoseconds
+OSS: Process 1 used its entire timeslice and is not blocked
+OSS: Putting process with PID 1 into queue 2
+
+OSS: Dispatching process with PID 1 from queue 2 at time 28:217,171,173
+OSS: Total time this dispatch was 5,689 nanoseconds
+OSS: Receiving that process with PID 1 ran for 40,000,000 nanoseconds
+OSS: Process 1 used its entire timeslice and is not blocked
+OSS: Putting process with PID 1 into queue 3
+
+OSS: Dispatching process with PID 12 from queue 3 at time 28:257,174,732
+OSS: Total time this dispatch was 3,559 nanoseconds
+OSS: Receiving that process with PID 12 ran for 80,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Dispatching process with PID 8 from queue 3 at time 28:337,177,875
+OSS: Total time this dispatch was 3,143 nanoseconds
+OSS: Receiving that process with PID 8 ran for 20,000,000 nanoseconds
+OSS: Process 8 is blocked and did not use its entire timeslice
+
+OSS: Dispatching process with PID 1 from queue 3 at time 28:357,183,737
+OSS: Total time this dispatch was 5,862 nanoseconds
+OSS: Receiving that process with PID 1 ran for 2,000,000 nanoseconds
+OSS: Process 1 terminated
+
+OSS: Dispatching process with PID 12 from queue 3 at time 28:359,184,676
+OSS: Total time this dispatch was 939 nanoseconds
+OSS: Receiving that process with PID 12 ran for 80,000,000 nanoseconds
+OSS: Process 12 used its entire timeslice and is not blocked
+OSS: Putting process with PID 12 into queue 3
+
+OSS: Generating process with PID 1 at putting it in queue 1 at time 28:439,184,676
+OSS: Removing process 14 from the blocked queue
+OSS: Dispatching process with PID 1 from queue 1 at time 28:439,191,394
+OSS: Total time this dispatch was 6,718 nanoseconds
+OSS: Receiving that process with PID 1 ran for 10,000,000 nanoseconds
+OSS: Process 1 used its entire timeslice and is not blocked
+OSS: Putting process with PID 1 into queue 2
+
+OSS: Exiting because 100 processes have been spawned or because 3 seconds have been passed
+
+==================== Statistics ====================
+  Processes generated   :         28
+  Simulated clock time  :         28: 449,191,394
+
+  Avg wait time         :          0: 952,959,204
+  Avg sleep time        :          2: 397,849,943
+  Avg turn-around time  :          0:       4,867
+  Total idle time       :         83: 228,307,475
+====================================================
+OSS: Sending SIGTERM to all children
+OSS: Removing message queues and shared memory
+OSS: Waiting for all children to exit
